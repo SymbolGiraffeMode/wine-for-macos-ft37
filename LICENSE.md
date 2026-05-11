@@ -1,4 +1,4 @@
-
+Enhance Wine for macOS with top Wine for macOS Workflow | clipboard-sharing + file-sharing, the #1 workflow. Includes clipboard-sharing and file-sharing for a smoother and more
 
 
 
